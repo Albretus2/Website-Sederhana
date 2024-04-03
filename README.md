@@ -16,5 +16,5 @@ tugas yang saya buat pertama kali di jurusan rpl(rekayasa perangkat lunak), yait
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Albretus2/Website-Sederhana/blob/main/img/Screen%20Shot%202024-04-03%20at%2014.36.19.png)
 
